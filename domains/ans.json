@@ -1,4 +1,9 @@
 {
-  "owner": { "username": "m4mans", "email": "a4anas1@gmail.com" },
-  "records": { "CNAME": "m4mans.github.io" }
+  "owner": {
+    "username": "m4mans",
+    "email": "a4anas1@gmail.com"
+  },
+  "records": {
+    "CNAME": "m4mans.github.io"
+  }
 }

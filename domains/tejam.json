@@ -1,8 +1,8 @@
 {
-    "owner": {
-        "username": "tejamurthycng-arch"
-    },
-    "records": {
-        "CNAME": "tejamurthycng-arch.github.io"
-    }
+  "owner": {
+    "username": "tejamurthycng-arch"
+  },
+  "records": {
+    "CNAME": "tejamurthycng-arch.github.io"
+  }
 }
