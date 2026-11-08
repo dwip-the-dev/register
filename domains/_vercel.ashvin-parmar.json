@@ -1,9 +1,9 @@
 {
-  "owner":{
-    "username":"ashvin-parmar",
-    "email":"ashwinparmar8181@gmail.com"
+  "owner": {
+    "username": "ashvin-parmar",
+    "email": "ashwinparmar8181@gmail.com"
   },
-  "records":{
-    "TXT":"vc-domain-verify=ashvin-parmar.is-a.dev,e047f5c5ceaed2151fcc"
+  "records": {
+    "TXT": "vc-domain-verify=ashvin-parmar.is-a.dev,e047f5c5ceaed2151fcc"
   }
 }
